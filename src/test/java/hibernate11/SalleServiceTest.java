@@ -1,3 +1,5 @@
+package hibernate11;
+
 import entities.Salle;
 import org.junit.After;
 import org.junit.Before;
